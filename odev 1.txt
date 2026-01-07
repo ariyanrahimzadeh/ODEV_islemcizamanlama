@@ -1,4 +1,4 @@
-11111111
+1111111
 def CalculateWaitingTime(at, bt, N):
 
   
@@ -552,4 +552,5 @@ if NOP > 0:
     print("Average Turn Around Time: {:.2f}".format(avg_tat))
     print("Average Waiting Time: {:.2f}".format(avg_wt))
     
+
     print("\n")
